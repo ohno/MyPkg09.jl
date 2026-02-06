@@ -1,0 +1,7 @@
+name = "MyPkg09.jl"
+uuid = "3c9acd6a-e898-4e2a-8120-a1f6039380d7"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.11"
